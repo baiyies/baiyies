@@ -1,22 +1,8 @@
 ### Hi, I'm not a programmer. 👋
 
-<!--
-**baiyies/baiyies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Visit Count ⚡
-![Visitor Count](https://profile-counter.glitch.me/baiyies/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=baiyies&style=flat-square&color=blue)
 
-## Status 📫
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baiyies&show_icons=true&theme=dark&count_private=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiyies&theme=dark&layout=compact" /></a> |
-| ------------- | ------------- |
+## Languages and Tools 📫
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
